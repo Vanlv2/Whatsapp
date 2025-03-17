@@ -19,7 +19,7 @@ Trước khi bắt đầu, cần chuẩn bị:
 
 Để bắt đầu, cần tạo tài khoản Facebook Developer và một ứng dụng WhatsApp:
 
-1. Truy cập: [https://developers.facebook.com/apps/creation/](https://developers.facebook.com/apps/creation/).
+1. Truy cập: [https://developers.facebook.com/apps/create/](https://developers.facebook.com/apps/create/).
 2. Tạo một ứng dụng mới và chọn loại **Business**.
 3. Sau khi tạo, sẽ có **App ID** và **App Secret**. Thông tin này sẽ được sử dụng để cấu hình kết nối với WhatsApp API.
 
