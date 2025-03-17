@@ -62,10 +62,13 @@ repoin
 ```bash
 {
   "messaging_product": "whatsapp",
-  "to": "<User-Phone-Number>",
-  "type": "text",
-  "text": {
-    "body": "Xin chào! Đây là tin nhắn từ bot WhatsApp."
+  "to": "84964928916",
+  "type": "template",
+  "template": {
+    "name": "hello_world",
+    "language": {
+      "code": "en_US"
+    }
   }
 }
 ```
